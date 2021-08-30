@@ -78,7 +78,7 @@
 >
 > ### Await and pay attention this!
 >
-> The DB_NAME is set in your .env file, new equal to schema name...
+> The DB_NAME setted in your .env file, need is equal to schema name...
 > 
 >  Ex:
 > ```
